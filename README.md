@@ -1,3 +1,6 @@
+frontend live link
+https://insurancebot.netlify.app/
+
 PROJECT SCREENSHOT
 
 <img width="1089" height="925" alt="Screenshot 2025-11-01 094008" src="https://github.com/user-attachments/assets/eef0ad55-3408-4668-8ba7-bde7e629af60" />
